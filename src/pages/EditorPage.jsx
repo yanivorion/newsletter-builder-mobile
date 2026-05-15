@@ -14,7 +14,7 @@ import FloatingMediaModal from '@/components/editor/FloatingMediaModal';
 import LayoutCarousel from '@/components/editor/LayoutCarousel';
 import TemplateSelector from '@/components/editor/TemplateSelector';
 import EditorBottomBar from '@/components/editor/EditorBottomBar';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { exportToHTML, exportForGmail, resolveNewsletterImages } from '@/utils/emailExport';
 import { convertNewsletterForEmail, findDynamicBlocks } from '@/utils/convertNewsletter';
 import { exportMarqueeAsGif } from '@/utils/sequenceGifExport';
