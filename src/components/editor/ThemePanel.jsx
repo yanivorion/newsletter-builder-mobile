@@ -6,7 +6,7 @@ import {
   Droplets,
   Trash2
 } from 'lucide-react';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { Input } from '../ui/Input';
 import { Label } from '../ui/Label';
 import { useTheme } from '../../context/ThemeContext';

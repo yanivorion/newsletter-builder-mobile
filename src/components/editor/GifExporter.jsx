@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { Download, Loader2, Film, X } from 'lucide-react';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { cn } from '../../lib/utils';
 
 function GifExporter({ targetRef, filename = 'marquee', duration = 3000, fps = 15 }) {

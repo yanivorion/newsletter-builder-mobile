@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import { Upload, Images, X, Check, ArrowRight, Loader2 } from 'lucide-react';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { cn } from '../../lib/utils';
 
 function BulkImageUploader({ maxImages, currentImages = [], onImagesChange }) {

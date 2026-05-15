@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect, useCallback } from 'react';
 import { Image, Copy, Check, Upload, Trash2, Loader2, FolderOpen, Palette } from 'lucide-react';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { Label } from '../ui/Label';
 import { mediaKit, getLogosByCategory } from '../../lib/mediaKit';
 import { useStagger } from '../../hooks/useStagger';

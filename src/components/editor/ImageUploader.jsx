@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import { Upload, RefreshCw, X, Sparkles, Loader2, Link, Image } from 'lucide-react';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { cn } from '../../lib/utils';
 
 function ImageUploader({ currentImage, onImageUpload, onImageUrl, onRemoveBackground, isProcessing, compact = false, showUrlOption = true }) {

@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Target, RotateCcw } from 'lucide-react';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { cn } from '../../lib/utils';
 
 function FocalPointPicker({ image, focalPoint = { x: 50, y: 50 }, onChange }) {

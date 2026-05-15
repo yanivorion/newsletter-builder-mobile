@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { Copy, Trash2, Check, X, MoreHorizontal, GripHorizontal } from 'lucide-react';
 import NewsletterEditor from './NewsletterEditor';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { cn } from '../../lib/utils';
 
 function NewsletterCard({

@@ -16,7 +16,7 @@ import {
   Proportions,
   LayoutList,
 } from 'lucide-react';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { Select } from '../ui/Input';
 import { EditableInput, EditableTextarea, EditableColorInput } from '../ui/EditableField';
 import { NumberInput } from '../ui/NumberInput';

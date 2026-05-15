@@ -51,7 +51,7 @@ import {
 import domtoimage from 'dom-to-image-more';
 import { captureElement, downloadDataUrl } from '../../utils/gifExport';
 import { exportSequenceAsGif, exportMarqueeAsGif, downloadBlob } from '../../utils/sequenceGifExport';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { cn } from '../../lib/utils';
 import CollagePresetPicker from './CollagePresetPicker';
 import ShapeDividerPicker from './ShapeDividerPicker';

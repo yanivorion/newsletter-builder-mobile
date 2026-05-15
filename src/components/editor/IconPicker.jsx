@@ -6,7 +6,7 @@ import {
   Music, Camera, Coffee, X, Search, Plus
 } from 'lucide-react';
 import { cn } from '../../lib/utils';
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 
 const AVAILABLE_ICONS = [
   { name: 'star', icon: Star },
