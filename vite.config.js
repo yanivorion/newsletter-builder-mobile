@@ -4,6 +4,7 @@ import path from 'path';
 
 // Allow JSX in .js files (matches the Next.js default the source uses).
 export default defineConfig({
+  base: '/newsletter-builder-mobile/',
   plugins: [
     react({
       include: /\.(jsx|js)$/,
