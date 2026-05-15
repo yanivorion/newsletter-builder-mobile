@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" width="320" height="140">
+  <rect width="320" height="140" fill="#0A0A0A"/>
+  <g font-family="'JetBrains Mono', 'Menlo', Consolas, monospace" font-weight="700" font-size="36" fill="#FF2D2D">
+    <text x="30" y="88">TRANS</text>
+    <rect x="176" y="56" width="16" height="38" fill="#FF2D2D">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

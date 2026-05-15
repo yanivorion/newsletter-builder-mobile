@@ -1,0 +1,3307 @@
+[
+  {
+    "name": "Studio 2.0 \u2014 Builder",
+    "description": "Imported from Supabase \u2014 yanivorion88@gmail.com",
+    "state": {
+      "sections": [
+        {
+          "id": "section-1773953529231-1je7u",
+          "rows": [
+            {
+              "id": "row-1773953529232-l1ou0",
+              "columns": [
+                {
+                  "id": "col-1773953529232-siq6u",
+                  "span": 12,
+                  "blocks": []
+                }
+              ]
+            }
+          ],
+          "type": "header",
+          "blocks": [],
+          "height": 350,
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "image",
+            "color": "#E8E8EC",
+            "image": "/media-kit/cover-5.png",
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": "#E8E8EC",
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953529232-hzwda",
+          "rows": [
+            {
+              "id": "row-1773953529232-rfw4k",
+              "columns": [
+                {
+                  "id": "col-1773953529232-67ysz",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953529232-98cwr",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "two-col-wide",
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953529232-dokoi",
+          "rows": [
+            {
+              "id": "row-1773953529232-bju01",
+              "columns": [
+                {
+                  "id": "col-1773953529232-aeycj",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953529232-2zldt",
+                      "alt": "",
+                      "src": "/media-kit/newsletter-template.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953529232-6ksqz",
+          "rows": [
+            {
+              "id": "row-1773953529232-wzxpj",
+              "columns": [
+                {
+                  "id": "col-1773953529232-yz8tt",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953529232-eqegi",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-text",
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 60,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953529232-b3de8",
+          "rows": [
+            {
+              "id": "row-1773953529232-xp66l",
+              "columns": [
+                {
+                  "id": "col-1773953529232-y4yzd",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953529232-h1l02",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-text",
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 60,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953529232-5w6h6",
+          "rows": [
+            {
+              "id": "row-1773953529232-t8uw2",
+              "columns": [
+                {
+                  "id": "col-1773953529232-upou4",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953529232-h1a7l",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-text",
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 60,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953529232-zwf3q",
+          "rows": [
+            {
+              "id": "row-1773953529232-o5r92",
+              "columns": [
+                {
+                  "id": "col-1773953529232-22weu",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953529232-88gkr",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-text",
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 60,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953529232-8ensq",
+          "rows": [
+            {
+              "id": "row-1773953529232-xomft",
+              "columns": [
+                {
+                  "id": "col-1773953529232-x7uzk",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953529232-fbwlq",
+                      "alt": "",
+                      "src": "/media-kit/cover-6.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "footer-1773953529232-n2v9m",
+          "logo": null,
+          "rows": [],
+          "type": "footer",
+          "blocks": [],
+          "height": "auto",
+          "padding": {
+            "top": 40,
+            "left": 24,
+            "right": 24,
+            "bottom": 40
+          },
+          "tagline": "",
+          "showLogo": true,
+          "linkColor": "#374151",
+          "textAlign": "center",
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          },
+          "fontFamily": "Poppins",
+          "showSocial": true,
+          "taglineUrl": "",
+          "companyInfo": "Wix.com \u2022 40 Namal Tel Aviv St.,Tel Aviv 6350671",
+          "footerLinks": [
+            {
+              "url": "#",
+              "text": "Unsubscribe"
+            },
+            {
+              "url": "#",
+              "text": "View in Browser"
+            },
+            {
+              "url": "#",
+              "text": "Privacy Policy"
+            }
+          ],
+          "showDivider": true,
+          "showTagline": true,
+          "socialLinks": {},
+          "dividerColor": "#E5E7EB",
+          "linkFontSize": 14,
+          "socialIconSize": 24,
+          "showCompanyInfo": true,
+          "showFooterLinks": true,
+          "socialIconColor": "#4B5563",
+          "companyInfoColor": "#374151",
+          "companyInfoFontSize": 14
+        }
+      ],
+      "pageSettings": {
+        "outerPadding": 20,
+        "innerBorderColor": "#E5E5E5",
+        "innerBorderWidth": 0,
+        "innerBorderRadius": 0,
+        "innerBackgroundColor": "#FFFFFF",
+        "outerBackgroundColor": "#F5F5F5"
+      },
+      "_legacy": {
+        "source": "supabase",
+        "project_ref": "ugjcqchsukkvkjylilph",
+        "newsletter_id": "bf6d25e9-9960-4e45-9820-c3db71866ae9",
+        "user_id": "36af1709-f1a7-4c86-aed6-4281ab36f33e",
+        "author_email": "yanivorion88@gmail.com",
+        "original_created_at": "2026-03-19T20:52:11.058113+00:00",
+        "original_updated_at": "2026-03-19T20:52:11.058113+00:00"
+      }
+    },
+    "is_template": false,
+    "thumbnail_url": null,
+    "_author_email": "yanivorion88@gmail.com",
+    "_legacy_id": "bf6d25e9-9960-4e45-9820-c3db71866ae9"
+  },
+  {
+    "name": "Studio 2.0 \u2014 Hero Above",
+    "description": "Imported from Supabase \u2014 yanivorion88@gmail.com",
+    "state": {
+      "sections": [
+        {
+          "id": "section-1773953531343-2t27e",
+          "rows": [
+            {
+              "id": "row-1773953531343-uu1ft",
+              "columns": [
+                {
+                  "id": "col-1773953531343-w071n",
+                  "span": 12,
+                  "blocks": []
+                }
+              ]
+            }
+          ],
+          "type": "header",
+          "blocks": [],
+          "height": 350,
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "image",
+            "color": "#E8E8EC",
+            "image": "/media-kit/cover-5.png",
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": "#E8E8EC",
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-l9rzp",
+          "rows": [
+            {
+              "id": "row-1773953531343-i2wrq",
+              "columns": [
+                {
+                  "id": "col-1773953531343-0igng",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-v47cq",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "text-centered",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 16,
+                      "badgeFontSize": 17,
+                      "titleFontSize": 16,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-olstm",
+          "rows": [
+            {
+              "id": "row-1773953531343-uqx8h",
+              "columns": [
+                {
+                  "id": "col-1773953531343-y9p7r",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-gbfw5",
+                      "alt": "",
+                      "src": "/media-kit/newsletter-template.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-24vre",
+          "rows": [
+            {
+              "id": "row-1773953531343-rjjqs",
+              "columns": [
+                {
+                  "id": "col-1773953531343-koknb",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-d704m",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-8c5zg",
+          "rows": [
+            {
+              "id": "row-1773953531343-otnim",
+              "columns": [
+                {
+                  "id": "col-1773953531343-n9l7d",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-n3v41",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-7afx8",
+          "rows": [
+            {
+              "id": "row-1773953531343-kctwj",
+              "columns": [
+                {
+                  "id": "col-1773953531343-9f1ie",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-e5szk",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-orgiq",
+          "rows": [
+            {
+              "id": "row-1773953531344-li5yi",
+              "columns": [
+                {
+                  "id": "col-1773953531344-7qmtd",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-ue30n",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531344-ow0ij",
+          "rows": [
+            {
+              "id": "row-1773953531344-n3mxe",
+              "columns": [
+                {
+                  "id": "col-1773953531344-8v0cg",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531344-9vq52",
+                      "alt": "",
+                      "src": "/media-kit/cover-6.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "footer-1773953531344-77xmo",
+          "logo": null,
+          "rows": [],
+          "type": "footer",
+          "blocks": [],
+          "height": "auto",
+          "padding": {
+            "top": 40,
+            "left": 24,
+            "right": 24,
+            "bottom": 40
+          },
+          "tagline": "",
+          "showLogo": true,
+          "linkColor": "#374151",
+          "textAlign": "center",
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          },
+          "fontFamily": "Poppins",
+          "showSocial": true,
+          "taglineUrl": "",
+          "companyInfo": "Wix.com \u2022 40 Namal Tel Aviv St.,Tel Aviv 6350671",
+          "footerLinks": [
+            {
+              "url": "#",
+              "text": "Unsubscribe"
+            },
+            {
+              "url": "#",
+              "text": "View in Browser"
+            },
+            {
+              "url": "#",
+              "text": "Privacy Policy"
+            }
+          ],
+          "showDivider": true,
+          "showTagline": true,
+          "socialLinks": {},
+          "dividerColor": "#E5E7EB",
+          "linkFontSize": 14,
+          "socialIconSize": 24,
+          "showCompanyInfo": true,
+          "showFooterLinks": true,
+          "socialIconColor": "#4B5563",
+          "companyInfoColor": "#374151",
+          "companyInfoFontSize": 14
+        }
+      ],
+      "pageSettings": {
+        "outerPadding": 20,
+        "innerBorderColor": "#E5E5E5",
+        "innerBorderWidth": 0,
+        "innerBorderRadius": 0,
+        "innerBackgroundColor": "#FFFFFF",
+        "outerBackgroundColor": "#F5F5F5"
+      },
+      "_legacy": {
+        "source": "supabase",
+        "project_ref": "ugjcqchsukkvkjylilph",
+        "newsletter_id": "8a99b5ae-7c3d-437f-8915-6110a8d2ff3d",
+        "user_id": "36af1709-f1a7-4c86-aed6-4281ab36f33e",
+        "author_email": "yanivorion88@gmail.com",
+        "original_created_at": "2026-03-19T20:52:12.093404+00:00",
+        "original_updated_at": "2026-03-19T20:52:12.093404+00:00"
+      }
+    },
+    "is_template": false,
+    "thumbnail_url": null,
+    "_author_email": "yanivorion88@gmail.com",
+    "_legacy_id": "8a99b5ae-7c3d-437f-8915-6110a8d2ff3d"
+  },
+  {
+    "name": "Studio 2.0 \u2014 Hero Above (copy)",
+    "description": "Imported from Supabase \u2014 yanivorion88@gmail.com",
+    "state": {
+      "sections": [
+        {
+          "id": "section-1773953531343-2t27e",
+          "rows": [
+            {
+              "id": "row-1773953531343-uu1ft",
+              "columns": [
+                {
+                  "id": "col-1773953531343-w071n",
+                  "span": 12,
+                  "blocks": []
+                }
+              ]
+            }
+          ],
+          "type": "header",
+          "blocks": [],
+          "height": 350,
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "image",
+            "color": "#E8E8EC",
+            "image": "/media-kit/cover-5.png",
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": "#E8E8EC",
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-l9rzp",
+          "rows": [
+            {
+              "id": "row-1773953531343-i2wrq",
+              "columns": [
+                {
+                  "id": "col-1773953531343-0igng",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-v47cq",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "text-centered",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 16,
+                      "badgeFontSize": 17,
+                      "titleFontSize": 16,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-olstm",
+          "rows": [
+            {
+              "id": "row-1773953531343-uqx8h",
+              "columns": [
+                {
+                  "id": "col-1773953531343-y9p7r",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-gbfw5",
+                      "alt": "",
+                      "src": "/media-kit/newsletter-template.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-24vre",
+          "rows": [
+            {
+              "id": "row-1773953531343-rjjqs",
+              "columns": [
+                {
+                  "id": "col-1773953531343-koknb",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-d704m",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-8c5zg",
+          "rows": [
+            {
+              "id": "row-1773953531343-otnim",
+              "columns": [
+                {
+                  "id": "col-1773953531343-n9l7d",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-n3v41",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-7afx8",
+          "rows": [
+            {
+              "id": "row-1773953531343-kctwj",
+              "columns": [
+                {
+                  "id": "col-1773953531343-9f1ie",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-e5szk",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-orgiq",
+          "rows": [
+            {
+              "id": "row-1773953531344-li5yi",
+              "columns": [
+                {
+                  "id": "col-1773953531344-7qmtd",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-ue30n",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531344-ow0ij",
+          "rows": [
+            {
+              "id": "row-1773953531344-n3mxe",
+              "columns": [
+                {
+                  "id": "col-1773953531344-8v0cg",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531344-9vq52",
+                      "alt": "",
+                      "src": "/media-kit/cover-6.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "footer-1773953531344-77xmo",
+          "logo": null,
+          "rows": [],
+          "type": "footer",
+          "blocks": [],
+          "height": "auto",
+          "padding": {
+            "top": 40,
+            "left": 24,
+            "right": 24,
+            "bottom": 40
+          },
+          "tagline": "",
+          "showLogo": true,
+          "linkColor": "#374151",
+          "textAlign": "center",
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          },
+          "fontFamily": "Poppins",
+          "showSocial": true,
+          "taglineUrl": "",
+          "companyInfo": "Wix.com \u2022 40 Namal Tel Aviv St.,Tel Aviv 6350671",
+          "footerLinks": [
+            {
+              "url": "#",
+              "text": "Unsubscribe"
+            },
+            {
+              "url": "#",
+              "text": "View in Browser"
+            },
+            {
+              "url": "#",
+              "text": "Privacy Policy"
+            }
+          ],
+          "showDivider": true,
+          "showTagline": true,
+          "socialLinks": {},
+          "dividerColor": "#E5E7EB",
+          "linkFontSize": 14,
+          "socialIconSize": 24,
+          "showCompanyInfo": true,
+          "showFooterLinks": true,
+          "socialIconColor": "#4B5563",
+          "companyInfoColor": "#374151",
+          "companyInfoFontSize": 14
+        }
+      ],
+      "pageSettings": {
+        "outerPadding": 20,
+        "innerBorderColor": "#E5E5E5",
+        "innerBorderWidth": 0,
+        "innerBorderRadius": 0,
+        "innerBackgroundColor": "#FFFFFF",
+        "outerBackgroundColor": "#F5F5F5"
+      },
+      "_legacy": {
+        "source": "supabase",
+        "project_ref": "ugjcqchsukkvkjylilph",
+        "newsletter_id": "146ea513-9ac8-4426-9ef8-4268145c50ee",
+        "user_id": "36af1709-f1a7-4c86-aed6-4281ab36f33e",
+        "author_email": "yanivorion88@gmail.com",
+        "original_created_at": "2026-03-19T20:55:01.246401+00:00",
+        "original_updated_at": "2026-03-19T20:55:01.246401+00:00"
+      }
+    },
+    "is_template": false,
+    "thumbnail_url": null,
+    "_author_email": "yanivorion88@gmail.com",
+    "_legacy_id": "146ea513-9ac8-4426-9ef8-4268145c50ee"
+  },
+  {
+    "name": "Studio 2.0 \u2014 Hero Above (copy)",
+    "description": "Imported from Supabase \u2014 tuvitk@wix.com",
+    "state": {
+      "sections": [
+        {
+          "id": "section-1773955987165-e6e5b",
+          "rows": [
+            {
+              "id": "row-1773955987165-2gbq8",
+              "columns": [
+                {
+                  "id": "col-1773955987165-ba9zb",
+                  "span": 12,
+                  "blocks": []
+                }
+              ]
+            }
+          ],
+          "type": "header",
+          "blocks": [],
+          "height": 350,
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "image",
+            "color": "#E8E8EC",
+            "image": "/media-kit/cover-5.png",
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": "#E8E8EC",
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773955987165-vb68u",
+          "rows": [
+            {
+              "id": "row-1773955987165-sd8u6",
+              "columns": [
+                {
+                  "id": "col-1773955987165-xau2h",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773955987165-bpt87",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "text-centered",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 16,
+                      "badgeFontSize": 17,
+                      "titleFontSize": 16,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773955987165-fvokt",
+          "rows": [
+            {
+              "id": "row-1773955987165-r8cz6",
+              "columns": [
+                {
+                  "id": "col-1773955987165-v00du",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773955987165-1n1wh",
+                      "alt": "",
+                      "src": "/media-kit/newsletter-template.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773955987165-4yk5g",
+          "rows": [
+            {
+              "id": "row-1773955987165-fy58n",
+              "columns": [
+                {
+                  "id": "col-1773955987165-adqp9",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773955987165-r3e9m",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773955987165-rgbfy",
+          "rows": [
+            {
+              "id": "row-1773955987165-f9c3v",
+              "columns": [
+                {
+                  "id": "col-1773955987165-pmioy",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773955987165-ujqst",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773955987165-h8k2f",
+          "rows": [
+            {
+              "id": "row-1773955987165-oh2tk",
+              "columns": [
+                {
+                  "id": "col-1773955987165-lpo9i",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773955987165-waw9i",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773955987165-0v1ym",
+          "rows": [
+            {
+              "id": "row-1773955987165-in3iy",
+              "columns": [
+                {
+                  "id": "col-1773955987165-hri4g",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773955987165-zwym0",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773955987165-n3e6y",
+          "rows": [
+            {
+              "id": "row-1773955987165-hcjs5",
+              "columns": [
+                {
+                  "id": "col-1773955987165-jgtlf",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773955987165-8vvav",
+                      "alt": "",
+                      "src": "/media-kit/cover-6.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "footer-1773955987165-h5fum",
+          "logo": null,
+          "rows": [],
+          "type": "footer",
+          "blocks": [],
+          "height": "auto",
+          "padding": {
+            "top": 40,
+            "left": 24,
+            "right": 24,
+            "bottom": 40
+          },
+          "tagline": "",
+          "showLogo": true,
+          "linkColor": "#374151",
+          "textAlign": "center",
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          },
+          "fontFamily": "Poppins",
+          "showSocial": true,
+          "taglineUrl": "",
+          "companyInfo": "Wix.com \u2022 40 Namal Tel Aviv St.,Tel Aviv 6350671",
+          "footerLinks": [
+            {
+              "url": "#",
+              "text": "Unsubscribe"
+            },
+            {
+              "url": "#",
+              "text": "View in Browser"
+            },
+            {
+              "url": "#",
+              "text": "Privacy Policy"
+            }
+          ],
+          "showDivider": true,
+          "showTagline": true,
+          "socialLinks": {},
+          "dividerColor": "#E5E7EB",
+          "linkFontSize": 14,
+          "socialIconSize": 24,
+          "showCompanyInfo": true,
+          "showFooterLinks": true,
+          "socialIconColor": "#4B5563",
+          "companyInfoColor": "#374151",
+          "companyInfoFontSize": 14
+        }
+      ],
+      "pageSettings": {
+        "outerPadding": 20,
+        "innerBorderColor": "#E5E5E5",
+        "innerBorderWidth": 0,
+        "innerBorderRadius": 0,
+        "innerBackgroundColor": "#FFFFFF",
+        "outerBackgroundColor": "#F5F5F5"
+      },
+      "_legacy": {
+        "source": "supabase",
+        "project_ref": "ugjcqchsukkvkjylilph",
+        "newsletter_id": "e80ec49a-74a5-4a43-94e0-753eb29d0472",
+        "user_id": "78450d68-9945-483a-a75f-210c7e688989",
+        "author_email": "tuvitk@wix.com",
+        "original_created_at": "2026-03-19T21:33:08.215412+00:00",
+        "original_updated_at": "2026-03-19T21:33:08.215412+00:00"
+      }
+    },
+    "is_template": false,
+    "thumbnail_url": null,
+    "_author_email": "tuvitk@wix.com",
+    "_legacy_id": "e80ec49a-74a5-4a43-94e0-753eb29d0472"
+  },
+  {
+    "name": "Studio 2.0 \u2014 Hero Above (copy) (copy)",
+    "description": "Imported from Supabase \u2014 yanivorion88@gmail.com",
+    "state": {
+      "sections": [
+        {
+          "id": "section-1773953531343-2t27e",
+          "rows": [
+            {
+              "id": "row-1773953531343-uu1ft",
+              "columns": [
+                {
+                  "id": "col-1773953531343-w071n",
+                  "span": 12,
+                  "blocks": []
+                }
+              ]
+            }
+          ],
+          "type": "header",
+          "blocks": [],
+          "height": 350,
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "image",
+            "color": "#E8E8EC",
+            "image": "/media-kit/cover-5.png",
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": "#E8E8EC",
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-l9rzp",
+          "rows": [
+            {
+              "id": "row-1773953531343-i2wrq",
+              "columns": [
+                {
+                  "id": "col-1773953531343-0igng",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-v47cq",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "text-centered",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 16,
+                      "badgeFontSize": 17,
+                      "titleFontSize": 16,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-olstm",
+          "rows": [
+            {
+              "id": "row-1773953531343-uqx8h",
+              "columns": [
+                {
+                  "id": "col-1773953531343-y9p7r",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-gbfw5",
+                      "alt": "",
+                      "src": "/media-kit/newsletter-template.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-24vre",
+          "rows": [
+            {
+              "id": "row-1773953531343-rjjqs",
+              "columns": [
+                {
+                  "id": "col-1773953531343-koknb",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-d704m",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-8c5zg",
+          "rows": [
+            {
+              "id": "row-1773953531343-otnim",
+              "columns": [
+                {
+                  "id": "col-1773953531343-n9l7d",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-n3v41",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-7afx8",
+          "rows": [
+            {
+              "id": "row-1773953531343-kctwj",
+              "columns": [
+                {
+                  "id": "col-1773953531343-9f1ie",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-e5szk",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531343-orgiq",
+          "rows": [
+            {
+              "id": "row-1773953531344-li5yi",
+              "columns": [
+                {
+                  "id": "col-1773953531344-7qmtd",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531343-ue30n",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1773953531344-ow0ij",
+          "rows": [
+            {
+              "id": "row-1773953531344-n3mxe",
+              "columns": [
+                {
+                  "id": "col-1773953531344-8v0cg",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1773953531344-9vq52",
+                      "alt": "",
+                      "src": "/media-kit/cover-6.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "footer-1773953531344-77xmo",
+          "logo": null,
+          "rows": [],
+          "type": "footer",
+          "blocks": [],
+          "height": "auto",
+          "padding": {
+            "top": 40,
+            "left": 24,
+            "right": 24,
+            "bottom": 40
+          },
+          "tagline": "",
+          "showLogo": true,
+          "linkColor": "#374151",
+          "textAlign": "center",
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          },
+          "fontFamily": "Poppins",
+          "showSocial": true,
+          "taglineUrl": "",
+          "companyInfo": "Wix.com \u2022 40 Namal Tel Aviv St.,Tel Aviv 6350671",
+          "footerLinks": [
+            {
+              "url": "#",
+              "text": "Unsubscribe"
+            },
+            {
+              "url": "#",
+              "text": "View in Browser"
+            },
+            {
+              "url": "#",
+              "text": "Privacy Policy"
+            }
+          ],
+          "showDivider": true,
+          "showTagline": true,
+          "socialLinks": {},
+          "dividerColor": "#E5E7EB",
+          "linkFontSize": 14,
+          "socialIconSize": 24,
+          "showCompanyInfo": true,
+          "showFooterLinks": true,
+          "socialIconColor": "#4B5563",
+          "companyInfoColor": "#374151",
+          "companyInfoFontSize": 14
+        }
+      ],
+      "pageSettings": {
+        "outerPadding": 20,
+        "innerBorderColor": "#E5E5E5",
+        "innerBorderWidth": 0,
+        "innerBorderRadius": 0,
+        "innerBackgroundColor": "#FFFFFF",
+        "outerBackgroundColor": "#F5F5F5"
+      },
+      "_legacy": {
+        "source": "supabase",
+        "project_ref": "ugjcqchsukkvkjylilph",
+        "newsletter_id": "e42f5412-89c9-4772-ad49-8959da315400",
+        "user_id": "36af1709-f1a7-4c86-aed6-4281ab36f33e",
+        "author_email": "yanivorion88@gmail.com",
+        "original_created_at": "2026-03-25T10:38:03.130394+00:00",
+        "original_updated_at": "2026-03-25T10:38:03.130394+00:00"
+      }
+    },
+    "is_template": false,
+    "thumbnail_url": null,
+    "_author_email": "yanivorion88@gmail.com",
+    "_legacy_id": "e42f5412-89c9-4772-ad49-8959da315400"
+  },
+  {
+    "name": "New Newsletter",
+    "description": "Imported from Supabase \u2014 yaniv@studio.local",
+    "state": {
+      "sections": [
+        {
+          "id": "header-1",
+          "rows": [
+            {
+              "id": "row-1776647767871-zqe7g",
+              "columns": [
+                {
+                  "id": "col-1776647767871-sjlkz",
+                  "span": 12,
+                  "blocks": []
+                }
+              ]
+            }
+          ],
+          "type": "header",
+          "blocks": [],
+          "height": 350,
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "gradient",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#F5F5F5",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#FFFFFF",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1776647782495-yb8bz",
+          "name": null,
+          "rows": [
+            {
+              "id": "row-1776647782495-2md77",
+              "columns": [
+                {
+                  "id": "col-1776647782495-ofa7y",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1776647782495-5qgkt",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "track-list",
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [
+            {
+              "id": "block-1776647782495-5qgkt",
+              "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+              "type": "multiLayout",
+              "title": "THE LOOK & FEEL OF STUDIO 2.0",
+              "images": [],
+              "layout": "track-list",
+              "badgeText": "BUILDER",
+              "badgeColor": "#1a1a3e",
+              "imageHeight": 180,
+              "imageBorderRadius": 12
+            }
+          ],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "footer-1",
+          "logo": null,
+          "rows": [],
+          "type": "footer",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 24,
+            "right": 24,
+            "bottom": 40
+          },
+          "tagline": "",
+          "showLogo": true,
+          "linkColor": "#374151",
+          "logoWidth": 120,
+          "minHeight": null,
+          "socialGap": 16,
+          "textAlign": "center",
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF"
+          },
+          "fontFamily": "Poppins",
+          "logoHeight": 40,
+          "showSocial": true,
+          "taglineUrl": "",
+          "companyInfo": "Wix.com \u2022 40 Namal Tel Aviv St.,Tel Aviv 6350671",
+          "footerLinks": [
+            {
+              "url": "#",
+              "text": "Unsubscribe"
+            },
+            {
+              "url": "#",
+              "text": "View in Browser"
+            },
+            {
+              "url": "#",
+              "text": "Privacy Policy"
+            }
+          ],
+          "showDivider": true,
+          "showTagline": true,
+          "socialLinks": {},
+          "dividerColor": "#E5E7EB",
+          "dividerWidth": 1,
+          "linkFontSize": 14,
+          "taglineColor": "#6B7280",
+          "linkSeparator": "|",
+          "socialIconSize": 24,
+          "showCompanyInfo": true,
+          "showFooterLinks": true,
+          "socialIconColor": "#4B5563",
+          "taglineFontSize": 13,
+          "companyInfoColor": "#374151",
+          "companyInfoFontSize": 14
+        }
+      ],
+      "pageSettings": {
+        "outerPadding": 20,
+        "innerBorderColor": "#E5E5E5",
+        "innerBorderWidth": 0,
+        "innerBorderRadius": 0,
+        "innerBackgroundColor": "#FFFFFF",
+        "outerBackgroundColor": "#F5F5F5"
+      },
+      "_legacy": {
+        "source": "supabase",
+        "project_ref": "ugjcqchsukkvkjylilph",
+        "newsletter_id": "c35b83a9-eda6-4e62-9877-ce0da79865ba",
+        "user_id": "6cf454e6-0957-46ba-bd8f-48597b880d8e",
+        "author_email": "yaniv@studio.local",
+        "original_created_at": "2026-04-20T01:20:28.175541+00:00",
+        "original_updated_at": "2026-04-20T01:20:33.062+00:00"
+      }
+    },
+    "is_template": false,
+    "thumbnail_url": null,
+    "_author_email": "yaniv@studio.local",
+    "_legacy_id": "c35b83a9-eda6-4e62-9877-ce0da79865ba"
+  },
+  {
+    "name": "Studio 2.0 \u2014 Hero Above (copy)",
+    "description": "Imported from Supabase \u2014 yaniv@studio.local",
+    "state": {
+      "sections": [
+        {
+          "id": "section-1776665309090-0t476",
+          "rows": [
+            {
+              "id": "row-1776665309090-0flof",
+              "columns": [
+                {
+                  "id": "col-1776665309090-6giig",
+                  "span": 12,
+                  "blocks": []
+                }
+              ]
+            }
+          ],
+          "type": "header",
+          "blocks": [],
+          "height": 350,
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "image",
+            "color": "#E8E8EC",
+            "image": "/media-kit/cover-5.png",
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": "#E8E8EC",
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1776665309090-jrxzz",
+          "rows": [
+            {
+              "id": "row-1776665309090-2emt8",
+              "columns": [
+                {
+                  "id": "col-1776665309090-1jmvu",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1776665309090-1epa7",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "text-centered",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 16,
+                      "badgeFontSize": 17,
+                      "titleFontSize": 16,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1776665309090-iu18t",
+          "rows": [
+            {
+              "id": "row-1776665309090-t90xe",
+              "columns": [
+                {
+                  "id": "col-1776665309090-lfkix",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1776665309090-jdsse",
+                      "alt": "",
+                      "src": "/media-kit/newsletter-template.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1776665309090-m9rcq",
+          "rows": [
+            {
+              "id": "row-1776665309090-3akkd",
+              "columns": [
+                {
+                  "id": "col-1776665309090-7xd82",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1776665309090-du3yq",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1776665309090-qzrm6",
+          "rows": [
+            {
+              "id": "row-1776665309090-injk1",
+              "columns": [
+                {
+                  "id": "col-1776665309090-w286k",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1776665309090-b3vva",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1776665309090-rvtim",
+          "rows": [
+            {
+              "id": "row-1776665309090-8y1zs",
+              "columns": [
+                {
+                  "id": "col-1776665309090-cjtrm",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1776665309090-9oy62",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1776665309090-eko1q",
+          "rows": [
+            {
+              "id": "row-1776665309090-ie2tz",
+              "columns": [
+                {
+                  "id": "col-1776665309090-x8g29",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1776665309090-faokz",
+                      "body": "The first real look at the Studio 2.0 editor shell. Top Bar, Side Bar, and Side Panels live and interactive. We showcased the design decisions, UX direction, and visual language that define how Studio 2.0 feels.",
+                      "type": "multiLayout",
+                      "title": "THE LOOK & FEEL OF STUDIO 2.0",
+                      "images": [],
+                      "layout": "hero-above",
+                      "imageGap": 16,
+                      "badgeText": "BUILDER",
+                      "badgeColor": "#1a1a3e",
+                      "imageHeight": 180,
+                      "bodyFontSize": 15,
+                      "badgeFontSize": 19,
+                      "titleFontSize": 17,
+                      "imageBorderRadius": 12
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 40,
+            "left": 0,
+            "right": 0,
+            "bottom": 40
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "section-1776665309090-der8p",
+          "rows": [
+            {
+              "id": "row-1776665309090-1oixo",
+              "columns": [
+                {
+                  "id": "col-1776665309090-5kily",
+                  "span": 12,
+                  "blocks": [
+                    {
+                      "id": "block-1776665309090-7lzro",
+                      "alt": "",
+                      "src": "/media-kit/cover-6.png",
+                      "type": "image",
+                      "width": "100%",
+                      "height": "auto",
+                      "objectFit": "cover",
+                      "borderRadius": 0,
+                      "showPlaceholder": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "section",
+          "blocks": [],
+          "height": "auto",
+          "preset": null,
+          "padding": {
+            "top": 0,
+            "left": 0,
+            "right": 0,
+            "bottom": 0
+          },
+          "minHeight": null,
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          }
+        },
+        {
+          "id": "footer-1776665309090-8kih6",
+          "logo": null,
+          "rows": [],
+          "type": "footer",
+          "blocks": [],
+          "height": "auto",
+          "padding": {
+            "top": 40,
+            "left": 24,
+            "right": 24,
+            "bottom": 40
+          },
+          "tagline": "",
+          "showLogo": true,
+          "linkColor": "#374151",
+          "textAlign": "center",
+          "background": {
+            "type": "solid",
+            "color": "#FFFFFF",
+            "image": null,
+            "imageSize": "cover",
+            "gradientEnd": "#17A298",
+            "imageRepeat": "no-repeat",
+            "fallbackColor": null,
+            "gradientAngle": 180,
+            "gradientStart": "#04D1FC",
+            "imagePosition": "center",
+            "imageOverlayColor": null,
+            "imageOverlayOpacity": 0.3
+          },
+          "fontFamily": "Poppins",
+          "showSocial": true,
+          "taglineUrl": "",
+          "companyInfo": "Wix.com \u2022 40 Namal Tel Aviv St.,Tel Aviv 6350671",
+          "footerLinks": [
+            {
+              "url": "#",
+              "text": "Unsubscribe"
+            },
+            {
+              "url": "#",
+              "text": "View in Browser"
+            },
+            {
+              "url": "#",
+              "text": "Privacy Policy"
+            }
+          ],
+          "showDivider": true,
+          "showTagline": true,
+          "socialLinks": {},
+          "dividerColor": "#E5E7EB",
+          "linkFontSize": 14,
+          "socialIconSize": 24,
+          "showCompanyInfo": true,
+          "showFooterLinks": true,
+          "socialIconColor": "#4B5563",
+          "companyInfoColor": "#374151",
+          "companyInfoFontSize": 14
+        }
+      ],
+      "pageSettings": {
+        "outerPadding": 20,
+        "innerBorderColor": "#E5E5E5",
+        "innerBorderWidth": 0,
+        "innerBorderRadius": 0,
+        "innerBackgroundColor": "#FFFFFF",
+        "outerBackgroundColor": "#F5F5F5"
+      },
+      "_legacy": {
+        "source": "supabase",
+        "project_ref": "ugjcqchsukkvkjylilph",
+        "newsletter_id": "0a68f970-4b11-456d-bdb2-5edb4637ced5",
+        "user_id": "6cf454e6-0957-46ba-bd8f-48597b880d8e",
+        "author_email": "yaniv@studio.local",
+        "original_created_at": "2026-04-20T06:08:30.046413+00:00",
+        "original_updated_at": "2026-04-20T06:08:30.046413+00:00"
+      }
+    },
+    "is_template": false,
+    "thumbnail_url": null,
+    "_author_email": "yaniv@studio.local",
+    "_legacy_id": "0a68f970-4b11-456d-bdb2-5edb4637ced5"
+  }
+]

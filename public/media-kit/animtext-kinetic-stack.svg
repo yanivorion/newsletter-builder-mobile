@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" width="320" height="140">
+  <rect width="320" height="140" fill="#0A0A0A"/>
+  <g font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" fill="#FF2D2D" text-anchor="middle" font-size="44">
+    <text x="24"  y="88" font-weight="400" transform="rotate(-12 24 88)">T</text>
+    <text x="58"  y="88" font-weight="600" transform="rotate(8 58 88)">R</text>
+    <text x="92"  y="88" font-weight="900" transform="rotate(-6 92 88)">A</text>
+    <text x="128" y="88" font-weight="700" transform="rotate(14 128 88)">N</text>
+    <text x="164" y="88" font-weight="400" transform="rotate(-10 164 88)">S</text>
+    <text x="198" y="88" font-weight="900" transform="rotate(5 198 88)">F</text>
+    <text x="230" y="88" font-weight="500" transform="rotate(-14 230 88)">O</text>
+    <text x="266" y="88" font-weight="800" transform="rotate(10 266 88)">R</text>
+    <text x="300" y="88" font-weight="400" transform="rotate(-4 300 88)">M</text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+{
+  "name": "Newsletter",
+  "description": "A newsletter document with full editor state (sections, blocks, page settings).",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Display name"
+    },
+    "description": {
+      "type": "string",
+      "description": "Short description / subject preview"
+    },
+    "state": {
+      "type": "object",
+      "description": "Full newsletter document: pageSettings, sections, blocks, etc.",
+      "additionalProperties": true
+    },
+    "thumbnail_url": {
+      "type": "string",
+      "description": "Optional preview image URL"
+    },
+    "is_template": {
+      "type": "boolean",
+      "default": false,
+      "description": "If true, this is a starter template, not a personal newsletter"
+    }
+  },
+  "required": ["name"]
+}

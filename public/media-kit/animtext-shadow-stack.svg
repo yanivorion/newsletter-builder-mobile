@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" width="320" height="140">
+  <rect width="320" height="140" fill="#0A0A0A"/>
+  <g font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-weight="900" text-anchor="middle" font-size="44" letter-spacing="-1">
+    <text x="174" y="98" fill="#7B61FF" opacity="0.6">TRANSFORM</text>
+    <text x="170" y="94" fill="#00C2FF" opacity="0.75">TRANSFORM</text>
+    <text x="166" y="90" fill="#FFB800" opacity="0.85">TRANSFORM</text>
+    <text x="162" y="86" fill="#FF2D2D">TRANSFORM</text>
+    <text x="158" y="82" fill="#FFFFFF">TRANSFORM</text>
+  </g>
+</svg>

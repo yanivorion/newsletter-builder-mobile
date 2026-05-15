@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 140" width="320" height="140">
+  <rect width="320" height="140" fill="#0A0A0A"/>
+  <g font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-weight="900" fill="#FF2D2D" text-anchor="middle">
+    <text x="22"  y="95" font-size="32">T</text>
+    <text x="54"  y="95" font-size="44">R</text>
+    <text x="92"  y="95" font-size="56">A</text>
+    <text x="132" y="95" font-size="60">N</text>
+    <text x="170" y="95" font-size="52">S</text>
+    <text x="204" y="95" font-size="42">F</text>
+    <text x="234" y="95" font-size="34">O</text>
+    <text x="262" y="95" font-size="28">R</text>
+    <text x="286" y="95" font-size="24">M</text>
+  </g>
+</svg>
